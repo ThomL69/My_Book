@@ -1,7 +1,7 @@
 # Book de Thomas Lieghio
 
-* [Anglais](README.en.md)
-* [Français](README.fr.md)
+* [Anglais](https://github.com/ThomL69/My_Book_en-EN/blob/main/README.md)
+* [Français](README.md)
   
 
 Rendez-vous à l'onglet ``Wiki`` pour visualiser mon book de mes différentes réalisations.
