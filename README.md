@@ -1,6 +1,6 @@
 # Book de Thomas Lieghio
 
-* [Anglais](https://github.com/ThomL69/My_Book_en-EN/blob/main/README.md)
+* [Anglais](https://github.com/ThomL69/My_Book_en-EN)
 * [Français](README.md)
   
 
