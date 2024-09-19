@@ -1,7 +1,7 @@
-# Book Thomas Lieghio
+# Thomas Lieghio's Book
 
-Rendez-vous à l'onglet ``Wiki`` pour visualiser mon book de mes différentes réalisations.
+Go to the Wiki tab to view my portfolio of different projects.
 
-<a href="https://github.com/ThomL69/My_Book/wiki">ICI</a>
+<a href="https://github.com/ThomL69/My_Book/wiki">HERE</a>
 
-Et pour voir le code derrière ces réalisations : <a href="https://github.com/ThomL69/My_upload"> ici </a>
+And to see the code behind these projects: <a href="https://github.com/ThomL69/My_upload"> here </a> 
